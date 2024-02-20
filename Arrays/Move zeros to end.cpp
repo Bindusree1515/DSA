@@ -1,3 +1,5 @@
+//two pointer approach
+//similarly as move remove duplicates
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
